@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.stTextInput>div>div>textarea {
+    border-radius: 8px;
+    border: 2px solid #ccc;
+}
+
+.stButton>button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.stButton>button:hover {
+    background-color: #45a049;
+}
+
+.stTextInput>div>div>textarea:focus {
+    border: 2px solid #4CAF50;
+}
+
+.stTextInput>div>div>label {
+    color: #4CAF50;
+}
+
+.stText>div>span {
+    color: #555;
+}
+
+.stText>div>p {
+    color: #555;
+}
