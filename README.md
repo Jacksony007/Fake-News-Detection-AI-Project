@@ -1,5 +1,6 @@
 # Fake News Detection using AI, Python, and PyTorch
 
+
 ## Description
 This project aims to detect fake news using advanced AI techniques. The model is built using Python and PyTorch, leveraging natural language processing (NLP) to classify news articles as real or fake.
 
@@ -40,14 +41,13 @@ This project aims to detect fake news using advanced AI techniques. The model is
 - Utilizes state-of-the-art NLP techniques.
 - Built with PyTorch for flexibility and performance.
 
+![Fake News Detection]![image](https://github.com/user-attachments/assets/4c3debf8-12f5-4ae3-9e40-2ac64faac63a)
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
+
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-(1) Fake News Detection using Machine Learning - GitHub. https://github.com/AtharvaKulkarniIT/Fake-News-Detection-using-Machine-Learning.
-(2) Fake News Detection using Machine Learning - GitHub. https://github.com/abiek12/Fake-News-Detection-using-MachineLearning/blob/main/README.md.
-(3) Fake News Detection with Machine Learning - Google Colab. https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshop/blob/main/fake_news_detection/Fake%20News%20Detection%20with%20Tensorflow.ipynb.
-(4) Fake News Detection Model using TensorFlow in Python - GitHub. https://github.com/JayasreeSKota/Fake-News-Detection-Model-using-TensorFlow-in-Python.
-(5) Detecting & Classifying Fake News with Python Sklearn. https://www.datacamp.com/tutorial/scikit-learn-fake-news.
+This project is licensed under the Creative Commons Zero v1.0 Universal - see the LICENSE file for details.
+
+
